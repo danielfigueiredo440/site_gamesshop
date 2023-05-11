@@ -18,7 +18,7 @@ body, input, textarea {
 
 header {
     padding: 16px 0;
-    background-color: #182c61;
+    background-color: #4b1ba3;
     color: #ecf0f1;
 }
 
@@ -68,7 +68,7 @@ section h2 {
 }
 
 section {
-    color: #182c61;
+    color: #ecf0f1;
 }
 
 section p {
@@ -77,6 +77,7 @@ section p {
 
 .store-front {
     margin-right: 32px;
+    width: 600px;
 }
 
 .social-links img {
@@ -120,7 +121,7 @@ section h3 {
 }
 
 form button {
-    background-color: #182c61;
+    background-color: #4b1ba3;
     color: #ecf0f1;
     border: none;
     cursor: pointer;
@@ -131,11 +132,13 @@ form button:hover {
 }
 
 input:focus, textarea:focus {
-    outline-color: #182c61;
+    outline-color: #4b1ba3;
+    background-color: #4b1ba3;
+    text
 }
 
 footer {
-    background-color: #182c61;
+    background-color: #4b1ba3;
     color: #ecf0f1;
     padding: 16px 0;
 }
